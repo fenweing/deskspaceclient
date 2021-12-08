@@ -1,0 +1,10 @@
+server:
+  port: 8080
+deskspaceServer:
+#  host: www.parrer.com
+  host: 127.0.0.1
+  port: 8081
+  appName: deskspaceserver
+spring:
+  main:
+    allow-circular-references: true
